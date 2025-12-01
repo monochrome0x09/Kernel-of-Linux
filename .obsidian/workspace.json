@@ -35,7 +35,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a062db2bac62aa8",
+  "active": "9f55b90be92d93ca",
   "lastOpenFiles": [
-    "README.md",
     "정리/1. 운영체제 기본 개념/프로세스, 스레드, 스케줄링.md",
+    "README.md",
     "계획.md",
     "정리/1. 운영체제 기본 개념",
     "정리",
